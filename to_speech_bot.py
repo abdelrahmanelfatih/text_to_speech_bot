@@ -6,7 +6,7 @@ from aiofiles import open as aio_open  # Use aiofiles for asynchronous file oper
 from typing import final
 import asyncio
 
-KEY: final = '7000535672:AAGCuDvaLprwh6H4vDvsx48Dz6D8Myo6_OU'
+KEY: final = 'YOUR_API_KEY'
 bot_username: final = 'to_speech_bot'
 
 # Commands
